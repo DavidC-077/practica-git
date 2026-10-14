@@ -12,4 +12,4 @@ Desarrollo.
 * `git commit`: Guarda una instantánea con mensaje descriptivo.
 * `git switch -c`: Crea y cambia a una nueva rama.
 * `git merge`: Fusiona ramas de trabajo.
-```
+````
